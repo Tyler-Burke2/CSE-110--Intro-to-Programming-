@@ -1,0 +1,361 @@
+name,age,major,gpa,year
+John Smith,19,Computer Science,3.8,Freshman
+Emma Wilson,20,Mathematics,3.9,Sophomore
+Michael Brown,21,Physics,3.7,Junior
+Sarah Davis,19,Biology,3.6,Freshman
+James Johnson,22,Chemistry,3.4,Senior
+Emily Taylor,20,Psychology,3.9,Sophomore
+Daniel Martinez,19,Engineering,3.5,Freshman
+Lisa Anderson,21,Business,3.8,Junior
+David Thompson,20,Economics,3.3,Sophomore
+Rachel White,22,English,3.9,Senior
+Christopher Lee,19,Computer Science,3.7,Freshman
+Michelle Garcia,21,Mathematics,4.0,Junior
+Kevin Rodriguez,20,Physics,3.6,Sophomore
+Amanda Moore,22,Chemistry,3.8,Senior
+Steven Wright,19,Biology,3.4,Freshman
+Jessica Adams,20,Psychology,3.7,Sophomore
+Ryan Mitchell,21,Engineering,3.9,Junior
+Jennifer Nelson,19,Business,3.5,Freshman
+Thomas Carter,22,Economics,3.8,Senior
+Ashley Wilson,20,English,3.6,Sophomore
+Andrew Martin,19,Computer Science,3.9,Freshman
+Samantha Hill,21,Mathematics,3.7,Junior
+Joseph Turner,20,Physics,3.8,Sophomore
+Rebecca Phillips,22,Biology,3.5,Senior
+Brandon Campbell,19,Chemistry,3.6,Freshman
+Nicole Baker,20,Psychology,3.8,Sophomore
+Justin Cooper,21,Engineering,4.0,Junior
+Melissa Evans,19,Business,3.4,Freshman
+Patrick Gray,22,Economics,3.7,Senior
+Lauren Morgan,20,English,3.9,Sophomore
+Maria Thompson,19,Environmental Science,3.6,Freshman
+Robert Walsh,21,History,3.8,Junior
+Kelly Martinez,20,Sociology,3.4,Sophomore
+Christopher Davis,22,Computer Science,3.9,Senior
+Sarah Johnson,18,Physics,3.7,Freshman
+Michael Rodriguez,21,Engineering,4.0,Junior
+Emily Chen,19,Biology,3.5,Freshman
+William Taylor,20,Mathematics,3.8,Sophomore
+Jessica Brown,22,Psychology,3.6,Senior
+Daniel Kim,19,Business,3.7,Freshman
+Rachel Anderson,21,Chemistry,3.9,Junior
+James Wilson,20,Economics,3.5,Sophomore
+Lauren Garcia,19,English,3.8,Freshman
+Tyler Wright,22,Computer Science,3.7,Senior
+Emma Phillips,20,Political Science,3.6,Sophomore
+Nathan Lee,21,Engineering,3.9,Junior
+Sophia Patel,19,Communications,3.4,Freshman
+Ryan Murphy,20,Philosophy,3.8,Sophomore
+Madison Scott,22,Art,3.7,Senior
+Brandon Cooper,19,Mathematics,4.0,Freshman
+Olivia White,21,Biology,3.6,Junior
+Justin Turner,20,Physics,3.8,Sophomore
+Hannah Baker,19,Psychology,3.5,Freshman
+Alexander Ross,22,Business,3.9,Senior
+Victoria Chang,20,Chemistry,3.7,Sophomore
+Kevin Nguyen,21,Economics,3.8,Junior
+Elizabeth Hall,19,Music,3.6,Freshman
+Andrew Morris,20,Computer Science,3.9,Sophomore
+Samantha Adams,22,Environmental Science,3.5,Senior
+David Park,19,Sociology,3.7,Freshman
+John Smith,19,Computer Science,3.8,Freshman
+Emma Wilson,20,Mathematics,3.9,Sophomore
+Michael Brown,21,Physics,3.7,Junior
+Sarah Davis,19,Biology,3.6,Freshman
+James Johnson,22,Chemistry,3.4,Senior
+Emily Taylor,20,Psychology,3.9,Sophomore
+Daniel Martinez,19,Engineering,3.5,Freshman
+Lisa Anderson,21,Business,3.8,Junior
+David Thompson,20,Economics,3.3,Sophomore
+Rachel White,22,English,3.9,Senior
+Christopher Lee,19,Computer Science,3.7,Freshman
+Michelle Garcia,21,Mathematics,4.0,Junior
+Kevin Rodriguez,20,Physics,3.6,Sophomore
+Amanda Moore,22,Chemistry,3.8,Senior
+Steven Wright,19,Biology,3.4,Freshman
+Jessica Adams,20,Psychology,3.7,Sophomore
+Ryan Mitchell,21,Engineering,3.9,Junior
+Jennifer Nelson,19,Business,3.5,Freshman
+Thomas Carter,22,Economics,3.8,Senior
+Ashley Wilson,20,English,3.6,Sophomore
+Andrew Martin,19,Computer Science,3.9,Freshman
+Samantha Hill,21,Mathematics,3.7,Junior
+Joseph Turner,20,Physics,3.8,Sophomore
+Rebecca Phillips,22,Biology,3.5,Senior
+Brandon Campbell,19,Chemistry,3.6,Freshman
+Nicole Baker,20,Psychology,3.8,Sophomore
+Justin Cooper,21,Engineering,4.0,Junior
+Melissa Evans,19,Business,3.4,Freshman
+Patrick Gray,22,Economics,3.7,Senior
+Lauren Morgan,20,English,3.9,Sophomore
+Maria Thompson,19,Environmental Science,3.6,Freshman
+Robert Walsh,21,History,3.8,Junior
+Kelly Martinez,20,Sociology,3.4,Sophomore
+Christopher Davis,22,Computer Science,3.9,Senior
+Sarah Johnson,18,Physics,3.7,Freshman
+Michael Rodriguez,21,Engineering,4.0,Junior
+Emily Chen,19,Biology,3.5,Freshman
+William Taylor,20,Mathematics,3.8,Sophomore
+Jessica Brown,22,Psychology,3.6,Senior
+Daniel Kim,19,Business,3.7,Freshman
+Rachel Anderson,21,Chemistry,3.9,Junior
+James Wilson,20,Economics,3.5,Sophomore
+Lauren Garcia,19,English,3.8,Freshman
+Tyler Wright,22,Computer Science,3.7,Senior
+Emma Phillips,20,Political Science,3.6,Sophomore
+Nathan Lee,21,Engineering,3.9,Junior
+Sophia Patel,19,Communications,3.4,Freshman
+Ryan Murphy,20,Philosophy,3.8,Sophomore
+Madison Scott,22,Art,3.7,Senior
+Brandon Cooper,19,Mathematics,4.0,Freshman
+Olivia White,21,Biology,3.6,Junior
+Justin Turner,20,Physics,3.8,Sophomore
+Hannah Baker,19,Psychology,3.5,Freshman
+Alexander Ross,22,Business,3.9,Senior
+Victoria Chang,20,Chemistry,3.7,Sophomore
+Kevin Nguyen,21,Economics,3.8,Junior
+Elizabeth Hall,19,Music,3.6,Freshman
+Andrew Morris,20,Computer Science,3.9,Sophomore
+Samantha Adams,22,Environmental Science,3.5,Senior
+David Park,19,Sociology,3.7,Freshman
+John Smith,19,Computer Science,3.8,Freshman
+Emma Wilson,20,Mathematics,3.9,Sophomore
+Michael Brown,21,Physics,3.7,Junior
+Sarah Davis,19,Biology,3.6,Freshman
+James Johnson,22,Chemistry,3.4,Senior
+Emily Taylor,20,Psychology,3.9,Sophomore
+Daniel Martinez,19,Engineering,3.5,Freshman
+Lisa Anderson,21,Business,3.8,Junior
+David Thompson,20,Economics,3.3,Sophomore
+Rachel White,22,English,3.9,Senior
+Christopher Lee,19,Computer Science,3.7,Freshman
+Michelle Garcia,21,Mathematics,4.0,Junior
+Kevin Rodriguez,20,Physics,3.6,Sophomore
+Amanda Moore,22,Chemistry,3.8,Senior
+Steven Wright,19,Biology,3.4,Freshman
+Jessica Adams,20,Psychology,3.7,Sophomore
+Ryan Mitchell,21,Engineering,3.9,Junior
+Jennifer Nelson,19,Business,3.5,Freshman
+Thomas Carter,22,Economics,3.8,Senior
+Ashley Wilson,20,English,3.6,Sophomore
+Andrew Martin,19,Computer Science,3.9,Freshman
+Samantha Hill,21,Mathematics,3.7,Junior
+Joseph Turner,20,Physics,3.8,Sophomore
+Rebecca Phillips,22,Biology,3.5,Senior
+Brandon Campbell,19,Chemistry,3.6,Freshman
+Nicole Baker,20,Psychology,3.8,Sophomore
+Justin Cooper,21,Engineering,4.0,Junior
+Melissa Evans,19,Business,3.4,Freshman
+Patrick Gray,22,Economics,3.7,Senior
+Lauren Morgan,20,English,3.9,Sophomore
+Maria Thompson,19,Environmental Science,3.6,Freshman
+Robert Walsh,21,History,3.8,Junior
+Kelly Martinez,20,Sociology,3.4,Sophomore
+Christopher Davis,22,Computer Science,3.9,Senior
+Sarah Johnson,18,Physics,3.7,Freshman
+Michael Rodriguez,21,Engineering,4.0,Junior
+Emily Chen,19,Biology,3.5,Freshman
+William Taylor,20,Mathematics,3.8,Sophomore
+Jessica Brown,22,Psychology,3.6,Senior
+Daniel Kim,19,Business,3.7,Freshman
+Rachel Anderson,21,Chemistry,3.9,Junior
+James Wilson,20,Economics,3.5,Sophomore
+Lauren Garcia,19,English,3.8,Freshman
+Tyler Wright,22,Computer Science,3.7,Senior
+Emma Phillips,20,Political Science,3.6,Sophomore
+Nathan Lee,21,Engineering,3.9,Junior
+Sophia Patel,19,Communications,3.4,Freshman
+Ryan Murphy,20,Philosophy,3.8,Sophomore
+Madison Scott,22,Art,3.7,Senior
+Brandon Cooper,19,Mathematics,4.0,Freshman
+Olivia White,21,Biology,3.6,Junior
+Justin Turner,20,Physics,3.8,Sophomore
+Hannah Baker,19,Psychology,3.5,Freshman
+Alexander Ross,22,Business,3.9,Senior
+Victoria Chang,20,Chemistry,3.7,Sophomore
+Kevin Nguyen,21,Economics,3.8,Junior
+Elizabeth Hall,19,Music,3.6,Freshman
+Andrew Morris,20,Computer Science,3.9,Sophomore
+Samantha Adams,22,Environmental Science,3.5,Senior
+David Park,19,Sociology,3.7,Freshman
+John Smith,19,Computer Science,3.8,Freshman
+Emma Wilson,20,Mathematics,3.9,Sophomore
+Michael Brown,21,Physics,3.7,Junior
+Sarah Davis,19,Biology,3.6,Freshman
+James Johnson,22,Chemistry,3.4,Senior
+Emily Taylor,20,Psychology,3.9,Sophomore
+Daniel Martinez,19,Engineering,3.5,Freshman
+Lisa Anderson,21,Business,3.8,Junior
+David Thompson,20,Economics,3.3,Sophomore
+Rachel White,22,English,3.9,Senior
+Christopher Lee,19,Computer Science,3.7,Freshman
+Michelle Garcia,21,Mathematics,4.0,Junior
+Kevin Rodriguez,20,Physics,3.6,Sophomore
+Amanda Moore,22,Chemistry,3.8,Senior
+Steven Wright,19,Biology,3.4,Freshman
+Jessica Adams,20,Psychology,3.7,Sophomore
+Ryan Mitchell,21,Engineering,3.9,Junior
+Jennifer Nelson,19,Business,3.5,Freshman
+Thomas Carter,22,Economics,3.8,Senior
+Ashley Wilson,20,English,3.6,Sophomore
+Andrew Martin,19,Computer Science,3.9,Freshman
+Samantha Hill,21,Mathematics,3.7,Junior
+Joseph Turner,20,Physics,3.8,Sophomore
+Rebecca Phillips,22,Biology,3.5,Senior
+Brandon Campbell,19,Chemistry,3.6,Freshman
+Nicole Baker,20,Psychology,3.8,Sophomore
+Justin Cooper,21,Engineering,4.0,Junior
+Melissa Evans,19,Business,3.4,Freshman
+Patrick Gray,22,Economics,3.7,Senior
+Lauren Morgan,20,English,3.9,Sophomore
+Maria Thompson,19,Environmental Science,3.6,Freshman
+Robert Walsh,21,History,3.8,Junior
+Kelly Martinez,20,Sociology,3.4,Sophomore
+Christopher Davis,22,Computer Science,3.9,Senior
+Sarah Johnson,18,Physics,3.7,Freshman
+Michael Rodriguez,21,Engineering,4.0,Junior
+Emily Chen,19,Biology,3.5,Freshman
+William Taylor,20,Mathematics,3.8,Sophomore
+Jessica Brown,22,Psychology,3.6,Senior
+Daniel Kim,19,Business,3.7,Freshman
+Rachel Anderson,21,Chemistry,3.9,Junior
+James Wilson,20,Economics,3.5,Sophomore
+Lauren Garcia,19,English,3.8,Freshman
+Tyler Wright,22,Computer Science,3.7,Senior
+Emma Phillips,20,Political Science,3.6,Sophomore
+Nathan Lee,21,Engineering,3.9,Junior
+Sophia Patel,19,Communications,3.4,Freshman
+Ryan Murphy,20,Philosophy,3.8,Sophomore
+Madison Scott,22,Art,3.7,Senior
+Brandon Cooper,19,Mathematics,4.0,Freshman
+Olivia White,21,Biology,3.6,Junior
+Justin Turner,20,Physics,3.8,Sophomore
+Hannah Baker,19,Psychology,3.5,Freshman
+Alexander Ross,22,Business,3.9,Senior
+Victoria Chang,20,Chemistry,3.7,Sophomore
+Kevin Nguyen,21,Economics,3.8,Junior
+Elizabeth Hall,19,Music,3.6,Freshman
+Andrew Morris,20,Computer Science,3.9,Sophomore
+Samantha Adams,22,Environmental Science,3.5,Senior
+David Park,19,Sociology,3.7,Freshman
+John Smith,19,Computer Science,3.8,Freshman
+Emma Wilson,20,Mathematics,3.9,Sophomore
+Michael Brown,21,Physics,3.7,Junior
+Sarah Davis,19,Biology,3.6,Freshman
+James Johnson,22,Chemistry,3.4,Senior
+Emily Taylor,20,Psychology,3.9,Sophomore
+Daniel Martinez,19,Engineering,3.5,Freshman
+Lisa Anderson,21,Business,3.8,Junior
+David Thompson,20,Economics,3.3,Sophomore
+Rachel White,22,English,3.9,Senior
+Christopher Lee,19,Computer Science,3.7,Freshman
+Michelle Garcia,21,Mathematics,4.0,Junior
+Kevin Rodriguez,20,Physics,3.6,Sophomore
+Amanda Moore,22,Chemistry,3.8,Senior
+Steven Wright,19,Biology,3.4,Freshman
+Jessica Adams,20,Psychology,3.7,Sophomore
+Ryan Mitchell,21,Engineering,3.9,Junior
+Jennifer Nelson,19,Business,3.5,Freshman
+Thomas Carter,22,Economics,3.8,Senior
+Ashley Wilson,20,English,3.6,Sophomore
+Andrew Martin,19,Computer Science,3.9,Freshman
+Samantha Hill,21,Mathematics,3.7,Junior
+Joseph Turner,20,Physics,3.8,Sophomore
+Rebecca Phillips,22,Biology,3.5,Senior
+Brandon Campbell,19,Chemistry,3.6,Freshman
+Nicole Baker,20,Psychology,3.8,Sophomore
+Justin Cooper,21,Engineering,4.0,Junior
+Melissa Evans,19,Business,3.4,Freshman
+Patrick Gray,22,Economics,3.7,Senior
+Lauren Morgan,20,English,3.9,Sophomore
+Maria Thompson,19,Environmental Science,3.6,Freshman
+Robert Walsh,21,History,3.8,Junior
+Kelly Martinez,20,Sociology,3.4,Sophomore
+Christopher Davis,22,Computer Science,3.9,Senior
+Sarah Johnson,18,Physics,3.7,Freshman
+Michael Rodriguez,21,Engineering,4.0,Junior
+Emily Chen,19,Biology,3.5,Freshman
+William Taylor,20,Mathematics,3.8,Sophomore
+Jessica Brown,22,Psychology,3.6,Senior
+Daniel Kim,19,Business,3.7,Freshman
+Rachel Anderson,21,Chemistry,3.9,Junior
+James Wilson,20,Economics,3.5,Sophomore
+Lauren Garcia,19,English,3.8,Freshman
+Tyler Wright,22,Computer Science,3.7,Senior
+Emma Phillips,20,Political Science,3.6,Sophomore
+Nathan Lee,21,Engineering,3.9,Junior
+Sophia Patel,19,Communications,3.4,Freshman
+Ryan Murphy,20,Philosophy,3.8,Sophomore
+Madison Scott,22,Art,3.7,Senior
+Brandon Cooper,19,Mathematics,4.0,Freshman
+Olivia White,21,Biology,3.6,Junior
+Justin Turner,20,Physics,3.8,Sophomore
+Hannah Baker,19,Psychology,3.5,Freshman
+Alexander Ross,22,Business,3.9,Senior
+Victoria Chang,20,Chemistry,3.7,Sophomore
+Kevin Nguyen,21,Economics,3.8,Junior
+Elizabeth Hall,19,Music,3.6,Freshman
+Andrew Morris,20,Computer Science,3.9,Sophomore
+Samantha Adams,22,Environmental Science,3.5,Senior
+David Park,19,Sociology,3.7,Freshman
+John Smith,19,Computer Science,3.8,Freshman
+Emma Wilson,20,Mathematics,3.9,Sophomore
+Michael Brown,21,Physics,3.7,Junior
+Sarah Davis,19,Biology,3.6,Freshman
+James Johnson,22,Chemistry,3.4,Senior
+Emily Taylor,20,Psychology,3.9,Sophomore
+Daniel Martinez,19,Engineering,3.5,Freshman
+Lisa Anderson,21,Business,3.8,Junior
+David Thompson,20,Economics,3.3,Sophomore
+Rachel White,22,English,3.9,Senior
+Christopher Lee,19,Computer Science,3.7,Freshman
+Michelle Garcia,21,Mathematics,4.0,Junior
+Kevin Rodriguez,20,Physics,3.6,Sophomore
+Amanda Moore,22,Chemistry,3.8,Senior
+Steven Wright,19,Biology,3.4,Freshman
+Jessica Adams,20,Psychology,3.7,Sophomore
+Ryan Mitchell,21,Engineering,3.9,Junior
+Jennifer Nelson,19,Business,3.5,Freshman
+Thomas Carter,22,Economics,3.8,Senior
+Ashley Wilson,20,English,3.6,Sophomore
+Andrew Martin,19,Computer Science,3.9,Freshman
+Samantha Hill,21,Mathematics,3.7,Junior
+Joseph Turner,20,Physics,3.8,Sophomore
+Rebecca Phillips,22,Biology,3.5,Senior
+Brandon Campbell,19,Chemistry,3.6,Freshman
+Nicole Baker,20,Psychology,3.8,Sophomore
+Justin Cooper,21,Engineering,4.0,Junior
+Melissa Evans,19,Business,3.4,Freshman
+Patrick Gray,22,Economics,3.7,Senior
+Lauren Morgan,20,English,3.9,Sophomore
+Maria Thompson,19,Environmental Science,3.6,Freshman
+Robert Walsh,21,History,3.8,Junior
+Kelly Martinez,20,Sociology,3.4,Sophomore
+Christopher Davis,22,Computer Science,3.9,Senior
+Sarah Johnson,18,Physics,3.7,Freshman
+Michael Rodriguez,21,Engineering,4.0,Junior
+Emily Chen,19,Biology,3.5,Freshman
+William Taylor,20,Mathematics,3.8,Sophomore
+Jessica Brown,22,Psychology,3.6,Senior
+Daniel Kim,19,Business,3.7,Freshman
+Rachel Anderson,21,Chemistry,3.9,Junior
+James Wilson,20,Economics,3.5,Sophomore
+Lauren Garcia,19,English,3.8,Freshman
+Tyler Wright,22,Computer Science,3.7,Senior
+Emma Phillips,20,Political Science,3.6,Sophomore
+Nathan Lee,21,Engineering,3.9,Junior
+Sophia Patel,19,Communications,3.4,Freshman
+Ryan Murphy,20,Philosophy,3.8,Sophomore
+Madison Scott,22,Art,3.7,Senior
+Brandon Cooper,19,Mathematics,4.0,Freshman
+Olivia White,21,Biology,3.6,Junior
+Justin Turner,20,Physics,3.8,Sophomore
+Hannah Baker,19,Psychology,3.5,Freshman
+Alexander Ross,22,Business,3.9,Senior
+Victoria Chang,20,Chemistry,3.7,Sophomore
+Kevin Nguyen,21,Economics,3.8,Junior
+Elizabeth Hall,19,Music,3.6,Freshman
+Andrew Morris,20,Computer Science,3.9,Sophomore
+Samantha Adams,22,Environmental Science,3.5,Senior
+David Park,19,Sociology,3.7,Freshman

@@ -1,0 +1,2522 @@
+[
+    {
+        "name": "John Smith",
+        "age": "19",
+        "major": "Computer Science",
+        "gpa": "3.8",
+        "year": "Freshman"
+    },
+    {
+        "name": "Emma Wilson",
+        "age": "20",
+        "major": "Mathematics",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Michael Brown",
+        "age": "21",
+        "major": "Physics",
+        "gpa": "3.7",
+        "year": "Junior"
+    },
+    {
+        "name": "Sarah Davis",
+        "age": "19",
+        "major": "Biology",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "James Johnson",
+        "age": "22",
+        "major": "Chemistry",
+        "gpa": "3.4",
+        "year": "Senior"
+    },
+    {
+        "name": "Emily Taylor",
+        "age": "20",
+        "major": "Psychology",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Daniel Martinez",
+        "age": "19",
+        "major": "Engineering",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "Lisa Anderson",
+        "age": "21",
+        "major": "Business",
+        "gpa": "3.8",
+        "year": "Junior"
+    },
+    {
+        "name": "David Thompson",
+        "age": "20",
+        "major": "Economics",
+        "gpa": "3.3",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Rachel White",
+        "age": "22",
+        "major": "English",
+        "gpa": "3.9",
+        "year": "Senior"
+    },
+    {
+        "name": "Christopher Lee",
+        "age": "19",
+        "major": "Computer Science",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "Michelle Garcia",
+        "age": "21",
+        "major": "Mathematics",
+        "gpa": "4.0",
+        "year": "Junior"
+    },
+    {
+        "name": "Kevin Rodriguez",
+        "age": "20",
+        "major": "Physics",
+        "gpa": "3.6",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Amanda Moore",
+        "age": "22",
+        "major": "Chemistry",
+        "gpa": "3.8",
+        "year": "Senior"
+    },
+    {
+        "name": "Steven Wright",
+        "age": "19",
+        "major": "Biology",
+        "gpa": "3.4",
+        "year": "Freshman"
+    },
+    {
+        "name": "Jessica Adams",
+        "age": "20",
+        "major": "Psychology",
+        "gpa": "3.7",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Ryan Mitchell",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "3.9",
+        "year": "Junior"
+    },
+    {
+        "name": "Jennifer Nelson",
+        "age": "19",
+        "major": "Business",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "Thomas Carter",
+        "age": "22",
+        "major": "Economics",
+        "gpa": "3.8",
+        "year": "Senior"
+    },
+    {
+        "name": "Ashley Wilson",
+        "age": "20",
+        "major": "English",
+        "gpa": "3.6",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Andrew Martin",
+        "age": "19",
+        "major": "Computer Science",
+        "gpa": "3.9",
+        "year": "Freshman"
+    },
+    {
+        "name": "Samantha Hill",
+        "age": "21",
+        "major": "Mathematics",
+        "gpa": "3.7",
+        "year": "Junior"
+    },
+    {
+        "name": "Joseph Turner",
+        "age": "20",
+        "major": "Physics",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Rebecca Phillips",
+        "age": "22",
+        "major": "Biology",
+        "gpa": "3.5",
+        "year": "Senior"
+    },
+    {
+        "name": "Brandon Campbell",
+        "age": "19",
+        "major": "Chemistry",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "Nicole Baker",
+        "age": "20",
+        "major": "Psychology",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Justin Cooper",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "4.0",
+        "year": "Junior"
+    },
+    {
+        "name": "Melissa Evans",
+        "age": "19",
+        "major": "Business",
+        "gpa": "3.4",
+        "year": "Freshman"
+    },
+    {
+        "name": "Patrick Gray",
+        "age": "22",
+        "major": "Economics",
+        "gpa": "3.7",
+        "year": "Senior"
+    },
+    {
+        "name": "Lauren Morgan",
+        "age": "20",
+        "major": "English",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Maria Thompson",
+        "age": "19",
+        "major": "Environmental Science",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "Robert Walsh",
+        "age": "21",
+        "major": "History",
+        "gpa": "3.8",
+        "year": "Junior"
+    },
+    {
+        "name": "Kelly Martinez",
+        "age": "20",
+        "major": "Sociology",
+        "gpa": "3.4",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Christopher Davis",
+        "age": "22",
+        "major": "Computer Science",
+        "gpa": "3.9",
+        "year": "Senior"
+    },
+    {
+        "name": "Sarah Johnson",
+        "age": "18",
+        "major": "Physics",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "Michael Rodriguez",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "4.0",
+        "year": "Junior"
+    },
+    {
+        "name": "Emily Chen",
+        "age": "19",
+        "major": "Biology",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "William Taylor",
+        "age": "20",
+        "major": "Mathematics",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Jessica Brown",
+        "age": "22",
+        "major": "Psychology",
+        "gpa": "3.6",
+        "year": "Senior"
+    },
+    {
+        "name": "Daniel Kim",
+        "age": "19",
+        "major": "Business",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "Rachel Anderson",
+        "age": "21",
+        "major": "Chemistry",
+        "gpa": "3.9",
+        "year": "Junior"
+    },
+    {
+        "name": "James Wilson",
+        "age": "20",
+        "major": "Economics",
+        "gpa": "3.5",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Lauren Garcia",
+        "age": "19",
+        "major": "English",
+        "gpa": "3.8",
+        "year": "Freshman"
+    },
+    {
+        "name": "Tyler Wright",
+        "age": "22",
+        "major": "Computer Science",
+        "gpa": "3.7",
+        "year": "Senior"
+    },
+    {
+        "name": "Emma Phillips",
+        "age": "20",
+        "major": "Political Science",
+        "gpa": "3.6",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Nathan Lee",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "3.9",
+        "year": "Junior"
+    },
+    {
+        "name": "Sophia Patel",
+        "age": "19",
+        "major": "Communications",
+        "gpa": "3.4",
+        "year": "Freshman"
+    },
+    {
+        "name": "Ryan Murphy",
+        "age": "20",
+        "major": "Philosophy",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Madison Scott",
+        "age": "22",
+        "major": "Art",
+        "gpa": "3.7",
+        "year": "Senior"
+    },
+    {
+        "name": "Brandon Cooper",
+        "age": "19",
+        "major": "Mathematics",
+        "gpa": "4.0",
+        "year": "Freshman"
+    },
+    {
+        "name": "Olivia White",
+        "age": "21",
+        "major": "Biology",
+        "gpa": "3.6",
+        "year": "Junior"
+    },
+    {
+        "name": "Justin Turner",
+        "age": "20",
+        "major": "Physics",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Hannah Baker",
+        "age": "19",
+        "major": "Psychology",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "Alexander Ross",
+        "age": "22",
+        "major": "Business",
+        "gpa": "3.9",
+        "year": "Senior"
+    },
+    {
+        "name": "Victoria Chang",
+        "age": "20",
+        "major": "Chemistry",
+        "gpa": "3.7",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Kevin Nguyen",
+        "age": "21",
+        "major": "Economics",
+        "gpa": "3.8",
+        "year": "Junior"
+    },
+    {
+        "name": "Elizabeth Hall",
+        "age": "19",
+        "major": "Music",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "Andrew Morris",
+        "age": "20",
+        "major": "Computer Science",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Samantha Adams",
+        "age": "22",
+        "major": "Environmental Science",
+        "gpa": "3.5",
+        "year": "Senior"
+    },
+    {
+        "name": "David Park",
+        "age": "19",
+        "major": "Sociology",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "John Smith",
+        "age": "19",
+        "major": "Computer Science",
+        "gpa": "3.8",
+        "year": "Freshman"
+    },
+    {
+        "name": "Emma Wilson",
+        "age": "20",
+        "major": "Mathematics",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Michael Brown",
+        "age": "21",
+        "major": "Physics",
+        "gpa": "3.7",
+        "year": "Junior"
+    },
+    {
+        "name": "Sarah Davis",
+        "age": "19",
+        "major": "Biology",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "James Johnson",
+        "age": "22",
+        "major": "Chemistry",
+        "gpa": "3.4",
+        "year": "Senior"
+    },
+    {
+        "name": "Emily Taylor",
+        "age": "20",
+        "major": "Psychology",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Daniel Martinez",
+        "age": "19",
+        "major": "Engineering",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "Lisa Anderson",
+        "age": "21",
+        "major": "Business",
+        "gpa": "3.8",
+        "year": "Junior"
+    },
+    {
+        "name": "David Thompson",
+        "age": "20",
+        "major": "Economics",
+        "gpa": "3.3",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Rachel White",
+        "age": "22",
+        "major": "English",
+        "gpa": "3.9",
+        "year": "Senior"
+    },
+    {
+        "name": "Christopher Lee",
+        "age": "19",
+        "major": "Computer Science",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "Michelle Garcia",
+        "age": "21",
+        "major": "Mathematics",
+        "gpa": "4.0",
+        "year": "Junior"
+    },
+    {
+        "name": "Kevin Rodriguez",
+        "age": "20",
+        "major": "Physics",
+        "gpa": "3.6",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Amanda Moore",
+        "age": "22",
+        "major": "Chemistry",
+        "gpa": "3.8",
+        "year": "Senior"
+    },
+    {
+        "name": "Steven Wright",
+        "age": "19",
+        "major": "Biology",
+        "gpa": "3.4",
+        "year": "Freshman"
+    },
+    {
+        "name": "Jessica Adams",
+        "age": "20",
+        "major": "Psychology",
+        "gpa": "3.7",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Ryan Mitchell",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "3.9",
+        "year": "Junior"
+    },
+    {
+        "name": "Jennifer Nelson",
+        "age": "19",
+        "major": "Business",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "Thomas Carter",
+        "age": "22",
+        "major": "Economics",
+        "gpa": "3.8",
+        "year": "Senior"
+    },
+    {
+        "name": "Ashley Wilson",
+        "age": "20",
+        "major": "English",
+        "gpa": "3.6",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Andrew Martin",
+        "age": "19",
+        "major": "Computer Science",
+        "gpa": "3.9",
+        "year": "Freshman"
+    },
+    {
+        "name": "Samantha Hill",
+        "age": "21",
+        "major": "Mathematics",
+        "gpa": "3.7",
+        "year": "Junior"
+    },
+    {
+        "name": "Joseph Turner",
+        "age": "20",
+        "major": "Physics",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Rebecca Phillips",
+        "age": "22",
+        "major": "Biology",
+        "gpa": "3.5",
+        "year": "Senior"
+    },
+    {
+        "name": "Brandon Campbell",
+        "age": "19",
+        "major": "Chemistry",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "Nicole Baker",
+        "age": "20",
+        "major": "Psychology",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Justin Cooper",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "4.0",
+        "year": "Junior"
+    },
+    {
+        "name": "Melissa Evans",
+        "age": "19",
+        "major": "Business",
+        "gpa": "3.4",
+        "year": "Freshman"
+    },
+    {
+        "name": "Patrick Gray",
+        "age": "22",
+        "major": "Economics",
+        "gpa": "3.7",
+        "year": "Senior"
+    },
+    {
+        "name": "Lauren Morgan",
+        "age": "20",
+        "major": "English",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Maria Thompson",
+        "age": "19",
+        "major": "Environmental Science",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "Robert Walsh",
+        "age": "21",
+        "major": "History",
+        "gpa": "3.8",
+        "year": "Junior"
+    },
+    {
+        "name": "Kelly Martinez",
+        "age": "20",
+        "major": "Sociology",
+        "gpa": "3.4",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Christopher Davis",
+        "age": "22",
+        "major": "Computer Science",
+        "gpa": "3.9",
+        "year": "Senior"
+    },
+    {
+        "name": "Sarah Johnson",
+        "age": "18",
+        "major": "Physics",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "Michael Rodriguez",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "4.0",
+        "year": "Junior"
+    },
+    {
+        "name": "Emily Chen",
+        "age": "19",
+        "major": "Biology",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "William Taylor",
+        "age": "20",
+        "major": "Mathematics",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Jessica Brown",
+        "age": "22",
+        "major": "Psychology",
+        "gpa": "3.6",
+        "year": "Senior"
+    },
+    {
+        "name": "Daniel Kim",
+        "age": "19",
+        "major": "Business",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "Rachel Anderson",
+        "age": "21",
+        "major": "Chemistry",
+        "gpa": "3.9",
+        "year": "Junior"
+    },
+    {
+        "name": "James Wilson",
+        "age": "20",
+        "major": "Economics",
+        "gpa": "3.5",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Lauren Garcia",
+        "age": "19",
+        "major": "English",
+        "gpa": "3.8",
+        "year": "Freshman"
+    },
+    {
+        "name": "Tyler Wright",
+        "age": "22",
+        "major": "Computer Science",
+        "gpa": "3.7",
+        "year": "Senior"
+    },
+    {
+        "name": "Emma Phillips",
+        "age": "20",
+        "major": "Political Science",
+        "gpa": "3.6",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Nathan Lee",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "3.9",
+        "year": "Junior"
+    },
+    {
+        "name": "Sophia Patel",
+        "age": "19",
+        "major": "Communications",
+        "gpa": "3.4",
+        "year": "Freshman"
+    },
+    {
+        "name": "Ryan Murphy",
+        "age": "20",
+        "major": "Philosophy",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Madison Scott",
+        "age": "22",
+        "major": "Art",
+        "gpa": "3.7",
+        "year": "Senior"
+    },
+    {
+        "name": "Brandon Cooper",
+        "age": "19",
+        "major": "Mathematics",
+        "gpa": "4.0",
+        "year": "Freshman"
+    },
+    {
+        "name": "Olivia White",
+        "age": "21",
+        "major": "Biology",
+        "gpa": "3.6",
+        "year": "Junior"
+    },
+    {
+        "name": "Justin Turner",
+        "age": "20",
+        "major": "Physics",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Hannah Baker",
+        "age": "19",
+        "major": "Psychology",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "Alexander Ross",
+        "age": "22",
+        "major": "Business",
+        "gpa": "3.9",
+        "year": "Senior"
+    },
+    {
+        "name": "Victoria Chang",
+        "age": "20",
+        "major": "Chemistry",
+        "gpa": "3.7",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Kevin Nguyen",
+        "age": "21",
+        "major": "Economics",
+        "gpa": "3.8",
+        "year": "Junior"
+    },
+    {
+        "name": "Elizabeth Hall",
+        "age": "19",
+        "major": "Music",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "Andrew Morris",
+        "age": "20",
+        "major": "Computer Science",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Samantha Adams",
+        "age": "22",
+        "major": "Environmental Science",
+        "gpa": "3.5",
+        "year": "Senior"
+    },
+    {
+        "name": "David Park",
+        "age": "19",
+        "major": "Sociology",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "John Smith",
+        "age": "19",
+        "major": "Computer Science",
+        "gpa": "3.8",
+        "year": "Freshman"
+    },
+    {
+        "name": "Emma Wilson",
+        "age": "20",
+        "major": "Mathematics",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Michael Brown",
+        "age": "21",
+        "major": "Physics",
+        "gpa": "3.7",
+        "year": "Junior"
+    },
+    {
+        "name": "Sarah Davis",
+        "age": "19",
+        "major": "Biology",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "James Johnson",
+        "age": "22",
+        "major": "Chemistry",
+        "gpa": "3.4",
+        "year": "Senior"
+    },
+    {
+        "name": "Emily Taylor",
+        "age": "20",
+        "major": "Psychology",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Daniel Martinez",
+        "age": "19",
+        "major": "Engineering",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "Lisa Anderson",
+        "age": "21",
+        "major": "Business",
+        "gpa": "3.8",
+        "year": "Junior"
+    },
+    {
+        "name": "David Thompson",
+        "age": "20",
+        "major": "Economics",
+        "gpa": "3.3",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Rachel White",
+        "age": "22",
+        "major": "English",
+        "gpa": "3.9",
+        "year": "Senior"
+    },
+    {
+        "name": "Christopher Lee",
+        "age": "19",
+        "major": "Computer Science",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "Michelle Garcia",
+        "age": "21",
+        "major": "Mathematics",
+        "gpa": "4.0",
+        "year": "Junior"
+    },
+    {
+        "name": "Kevin Rodriguez",
+        "age": "20",
+        "major": "Physics",
+        "gpa": "3.6",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Amanda Moore",
+        "age": "22",
+        "major": "Chemistry",
+        "gpa": "3.8",
+        "year": "Senior"
+    },
+    {
+        "name": "Steven Wright",
+        "age": "19",
+        "major": "Biology",
+        "gpa": "3.4",
+        "year": "Freshman"
+    },
+    {
+        "name": "Jessica Adams",
+        "age": "20",
+        "major": "Psychology",
+        "gpa": "3.7",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Ryan Mitchell",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "3.9",
+        "year": "Junior"
+    },
+    {
+        "name": "Jennifer Nelson",
+        "age": "19",
+        "major": "Business",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "Thomas Carter",
+        "age": "22",
+        "major": "Economics",
+        "gpa": "3.8",
+        "year": "Senior"
+    },
+    {
+        "name": "Ashley Wilson",
+        "age": "20",
+        "major": "English",
+        "gpa": "3.6",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Andrew Martin",
+        "age": "19",
+        "major": "Computer Science",
+        "gpa": "3.9",
+        "year": "Freshman"
+    },
+    {
+        "name": "Samantha Hill",
+        "age": "21",
+        "major": "Mathematics",
+        "gpa": "3.7",
+        "year": "Junior"
+    },
+    {
+        "name": "Joseph Turner",
+        "age": "20",
+        "major": "Physics",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Rebecca Phillips",
+        "age": "22",
+        "major": "Biology",
+        "gpa": "3.5",
+        "year": "Senior"
+    },
+    {
+        "name": "Brandon Campbell",
+        "age": "19",
+        "major": "Chemistry",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "Nicole Baker",
+        "age": "20",
+        "major": "Psychology",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Justin Cooper",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "4.0",
+        "year": "Junior"
+    },
+    {
+        "name": "Melissa Evans",
+        "age": "19",
+        "major": "Business",
+        "gpa": "3.4",
+        "year": "Freshman"
+    },
+    {
+        "name": "Patrick Gray",
+        "age": "22",
+        "major": "Economics",
+        "gpa": "3.7",
+        "year": "Senior"
+    },
+    {
+        "name": "Lauren Morgan",
+        "age": "20",
+        "major": "English",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Maria Thompson",
+        "age": "19",
+        "major": "Environmental Science",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "Robert Walsh",
+        "age": "21",
+        "major": "History",
+        "gpa": "3.8",
+        "year": "Junior"
+    },
+    {
+        "name": "Kelly Martinez",
+        "age": "20",
+        "major": "Sociology",
+        "gpa": "3.4",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Christopher Davis",
+        "age": "22",
+        "major": "Computer Science",
+        "gpa": "3.9",
+        "year": "Senior"
+    },
+    {
+        "name": "Sarah Johnson",
+        "age": "18",
+        "major": "Physics",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "Michael Rodriguez",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "4.0",
+        "year": "Junior"
+    },
+    {
+        "name": "Emily Chen",
+        "age": "19",
+        "major": "Biology",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "William Taylor",
+        "age": "20",
+        "major": "Mathematics",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Jessica Brown",
+        "age": "22",
+        "major": "Psychology",
+        "gpa": "3.6",
+        "year": "Senior"
+    },
+    {
+        "name": "Daniel Kim",
+        "age": "19",
+        "major": "Business",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "Rachel Anderson",
+        "age": "21",
+        "major": "Chemistry",
+        "gpa": "3.9",
+        "year": "Junior"
+    },
+    {
+        "name": "James Wilson",
+        "age": "20",
+        "major": "Economics",
+        "gpa": "3.5",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Lauren Garcia",
+        "age": "19",
+        "major": "English",
+        "gpa": "3.8",
+        "year": "Freshman"
+    },
+    {
+        "name": "Tyler Wright",
+        "age": "22",
+        "major": "Computer Science",
+        "gpa": "3.7",
+        "year": "Senior"
+    },
+    {
+        "name": "Emma Phillips",
+        "age": "20",
+        "major": "Political Science",
+        "gpa": "3.6",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Nathan Lee",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "3.9",
+        "year": "Junior"
+    },
+    {
+        "name": "Sophia Patel",
+        "age": "19",
+        "major": "Communications",
+        "gpa": "3.4",
+        "year": "Freshman"
+    },
+    {
+        "name": "Ryan Murphy",
+        "age": "20",
+        "major": "Philosophy",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Madison Scott",
+        "age": "22",
+        "major": "Art",
+        "gpa": "3.7",
+        "year": "Senior"
+    },
+    {
+        "name": "Brandon Cooper",
+        "age": "19",
+        "major": "Mathematics",
+        "gpa": "4.0",
+        "year": "Freshman"
+    },
+    {
+        "name": "Olivia White",
+        "age": "21",
+        "major": "Biology",
+        "gpa": "3.6",
+        "year": "Junior"
+    },
+    {
+        "name": "Justin Turner",
+        "age": "20",
+        "major": "Physics",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Hannah Baker",
+        "age": "19",
+        "major": "Psychology",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "Alexander Ross",
+        "age": "22",
+        "major": "Business",
+        "gpa": "3.9",
+        "year": "Senior"
+    },
+    {
+        "name": "Victoria Chang",
+        "age": "20",
+        "major": "Chemistry",
+        "gpa": "3.7",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Kevin Nguyen",
+        "age": "21",
+        "major": "Economics",
+        "gpa": "3.8",
+        "year": "Junior"
+    },
+    {
+        "name": "Elizabeth Hall",
+        "age": "19",
+        "major": "Music",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "Andrew Morris",
+        "age": "20",
+        "major": "Computer Science",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Samantha Adams",
+        "age": "22",
+        "major": "Environmental Science",
+        "gpa": "3.5",
+        "year": "Senior"
+    },
+    {
+        "name": "David Park",
+        "age": "19",
+        "major": "Sociology",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "John Smith",
+        "age": "19",
+        "major": "Computer Science",
+        "gpa": "3.8",
+        "year": "Freshman"
+    },
+    {
+        "name": "Emma Wilson",
+        "age": "20",
+        "major": "Mathematics",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Michael Brown",
+        "age": "21",
+        "major": "Physics",
+        "gpa": "3.7",
+        "year": "Junior"
+    },
+    {
+        "name": "Sarah Davis",
+        "age": "19",
+        "major": "Biology",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "James Johnson",
+        "age": "22",
+        "major": "Chemistry",
+        "gpa": "3.4",
+        "year": "Senior"
+    },
+    {
+        "name": "Emily Taylor",
+        "age": "20",
+        "major": "Psychology",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Daniel Martinez",
+        "age": "19",
+        "major": "Engineering",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "Lisa Anderson",
+        "age": "21",
+        "major": "Business",
+        "gpa": "3.8",
+        "year": "Junior"
+    },
+    {
+        "name": "David Thompson",
+        "age": "20",
+        "major": "Economics",
+        "gpa": "3.3",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Rachel White",
+        "age": "22",
+        "major": "English",
+        "gpa": "3.9",
+        "year": "Senior"
+    },
+    {
+        "name": "Christopher Lee",
+        "age": "19",
+        "major": "Computer Science",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "Michelle Garcia",
+        "age": "21",
+        "major": "Mathematics",
+        "gpa": "4.0",
+        "year": "Junior"
+    },
+    {
+        "name": "Kevin Rodriguez",
+        "age": "20",
+        "major": "Physics",
+        "gpa": "3.6",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Amanda Moore",
+        "age": "22",
+        "major": "Chemistry",
+        "gpa": "3.8",
+        "year": "Senior"
+    },
+    {
+        "name": "Steven Wright",
+        "age": "19",
+        "major": "Biology",
+        "gpa": "3.4",
+        "year": "Freshman"
+    },
+    {
+        "name": "Jessica Adams",
+        "age": "20",
+        "major": "Psychology",
+        "gpa": "3.7",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Ryan Mitchell",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "3.9",
+        "year": "Junior"
+    },
+    {
+        "name": "Jennifer Nelson",
+        "age": "19",
+        "major": "Business",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "Thomas Carter",
+        "age": "22",
+        "major": "Economics",
+        "gpa": "3.8",
+        "year": "Senior"
+    },
+    {
+        "name": "Ashley Wilson",
+        "age": "20",
+        "major": "English",
+        "gpa": "3.6",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Andrew Martin",
+        "age": "19",
+        "major": "Computer Science",
+        "gpa": "3.9",
+        "year": "Freshman"
+    },
+    {
+        "name": "Samantha Hill",
+        "age": "21",
+        "major": "Mathematics",
+        "gpa": "3.7",
+        "year": "Junior"
+    },
+    {
+        "name": "Joseph Turner",
+        "age": "20",
+        "major": "Physics",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Rebecca Phillips",
+        "age": "22",
+        "major": "Biology",
+        "gpa": "3.5",
+        "year": "Senior"
+    },
+    {
+        "name": "Brandon Campbell",
+        "age": "19",
+        "major": "Chemistry",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "Nicole Baker",
+        "age": "20",
+        "major": "Psychology",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Justin Cooper",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "4.0",
+        "year": "Junior"
+    },
+    {
+        "name": "Melissa Evans",
+        "age": "19",
+        "major": "Business",
+        "gpa": "3.4",
+        "year": "Freshman"
+    },
+    {
+        "name": "Patrick Gray",
+        "age": "22",
+        "major": "Economics",
+        "gpa": "3.7",
+        "year": "Senior"
+    },
+    {
+        "name": "Lauren Morgan",
+        "age": "20",
+        "major": "English",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Maria Thompson",
+        "age": "19",
+        "major": "Environmental Science",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "Robert Walsh",
+        "age": "21",
+        "major": "History",
+        "gpa": "3.8",
+        "year": "Junior"
+    },
+    {
+        "name": "Kelly Martinez",
+        "age": "20",
+        "major": "Sociology",
+        "gpa": "3.4",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Christopher Davis",
+        "age": "22",
+        "major": "Computer Science",
+        "gpa": "3.9",
+        "year": "Senior"
+    },
+    {
+        "name": "Sarah Johnson",
+        "age": "18",
+        "major": "Physics",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "Michael Rodriguez",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "4.0",
+        "year": "Junior"
+    },
+    {
+        "name": "Emily Chen",
+        "age": "19",
+        "major": "Biology",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "William Taylor",
+        "age": "20",
+        "major": "Mathematics",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Jessica Brown",
+        "age": "22",
+        "major": "Psychology",
+        "gpa": "3.6",
+        "year": "Senior"
+    },
+    {
+        "name": "Daniel Kim",
+        "age": "19",
+        "major": "Business",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "Rachel Anderson",
+        "age": "21",
+        "major": "Chemistry",
+        "gpa": "3.9",
+        "year": "Junior"
+    },
+    {
+        "name": "James Wilson",
+        "age": "20",
+        "major": "Economics",
+        "gpa": "3.5",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Lauren Garcia",
+        "age": "19",
+        "major": "English",
+        "gpa": "3.8",
+        "year": "Freshman"
+    },
+    {
+        "name": "Tyler Wright",
+        "age": "22",
+        "major": "Computer Science",
+        "gpa": "3.7",
+        "year": "Senior"
+    },
+    {
+        "name": "Emma Phillips",
+        "age": "20",
+        "major": "Political Science",
+        "gpa": "3.6",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Nathan Lee",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "3.9",
+        "year": "Junior"
+    },
+    {
+        "name": "Sophia Patel",
+        "age": "19",
+        "major": "Communications",
+        "gpa": "3.4",
+        "year": "Freshman"
+    },
+    {
+        "name": "Ryan Murphy",
+        "age": "20",
+        "major": "Philosophy",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Madison Scott",
+        "age": "22",
+        "major": "Art",
+        "gpa": "3.7",
+        "year": "Senior"
+    },
+    {
+        "name": "Brandon Cooper",
+        "age": "19",
+        "major": "Mathematics",
+        "gpa": "4.0",
+        "year": "Freshman"
+    },
+    {
+        "name": "Olivia White",
+        "age": "21",
+        "major": "Biology",
+        "gpa": "3.6",
+        "year": "Junior"
+    },
+    {
+        "name": "Justin Turner",
+        "age": "20",
+        "major": "Physics",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Hannah Baker",
+        "age": "19",
+        "major": "Psychology",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "Alexander Ross",
+        "age": "22",
+        "major": "Business",
+        "gpa": "3.9",
+        "year": "Senior"
+    },
+    {
+        "name": "Victoria Chang",
+        "age": "20",
+        "major": "Chemistry",
+        "gpa": "3.7",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Kevin Nguyen",
+        "age": "21",
+        "major": "Economics",
+        "gpa": "3.8",
+        "year": "Junior"
+    },
+    {
+        "name": "Elizabeth Hall",
+        "age": "19",
+        "major": "Music",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "Andrew Morris",
+        "age": "20",
+        "major": "Computer Science",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Samantha Adams",
+        "age": "22",
+        "major": "Environmental Science",
+        "gpa": "3.5",
+        "year": "Senior"
+    },
+    {
+        "name": "David Park",
+        "age": "19",
+        "major": "Sociology",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "John Smith",
+        "age": "19",
+        "major": "Computer Science",
+        "gpa": "3.8",
+        "year": "Freshman"
+    },
+    {
+        "name": "Emma Wilson",
+        "age": "20",
+        "major": "Mathematics",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Michael Brown",
+        "age": "21",
+        "major": "Physics",
+        "gpa": "3.7",
+        "year": "Junior"
+    },
+    {
+        "name": "Sarah Davis",
+        "age": "19",
+        "major": "Biology",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "James Johnson",
+        "age": "22",
+        "major": "Chemistry",
+        "gpa": "3.4",
+        "year": "Senior"
+    },
+    {
+        "name": "Emily Taylor",
+        "age": "20",
+        "major": "Psychology",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Daniel Martinez",
+        "age": "19",
+        "major": "Engineering",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "Lisa Anderson",
+        "age": "21",
+        "major": "Business",
+        "gpa": "3.8",
+        "year": "Junior"
+    },
+    {
+        "name": "David Thompson",
+        "age": "20",
+        "major": "Economics",
+        "gpa": "3.3",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Rachel White",
+        "age": "22",
+        "major": "English",
+        "gpa": "3.9",
+        "year": "Senior"
+    },
+    {
+        "name": "Christopher Lee",
+        "age": "19",
+        "major": "Computer Science",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "Michelle Garcia",
+        "age": "21",
+        "major": "Mathematics",
+        "gpa": "4.0",
+        "year": "Junior"
+    },
+    {
+        "name": "Kevin Rodriguez",
+        "age": "20",
+        "major": "Physics",
+        "gpa": "3.6",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Amanda Moore",
+        "age": "22",
+        "major": "Chemistry",
+        "gpa": "3.8",
+        "year": "Senior"
+    },
+    {
+        "name": "Steven Wright",
+        "age": "19",
+        "major": "Biology",
+        "gpa": "3.4",
+        "year": "Freshman"
+    },
+    {
+        "name": "Jessica Adams",
+        "age": "20",
+        "major": "Psychology",
+        "gpa": "3.7",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Ryan Mitchell",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "3.9",
+        "year": "Junior"
+    },
+    {
+        "name": "Jennifer Nelson",
+        "age": "19",
+        "major": "Business",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "Thomas Carter",
+        "age": "22",
+        "major": "Economics",
+        "gpa": "3.8",
+        "year": "Senior"
+    },
+    {
+        "name": "Ashley Wilson",
+        "age": "20",
+        "major": "English",
+        "gpa": "3.6",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Andrew Martin",
+        "age": "19",
+        "major": "Computer Science",
+        "gpa": "3.9",
+        "year": "Freshman"
+    },
+    {
+        "name": "Samantha Hill",
+        "age": "21",
+        "major": "Mathematics",
+        "gpa": "3.7",
+        "year": "Junior"
+    },
+    {
+        "name": "Joseph Turner",
+        "age": "20",
+        "major": "Physics",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Rebecca Phillips",
+        "age": "22",
+        "major": "Biology",
+        "gpa": "3.5",
+        "year": "Senior"
+    },
+    {
+        "name": "Brandon Campbell",
+        "age": "19",
+        "major": "Chemistry",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "Nicole Baker",
+        "age": "20",
+        "major": "Psychology",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Justin Cooper",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "4.0",
+        "year": "Junior"
+    },
+    {
+        "name": "Melissa Evans",
+        "age": "19",
+        "major": "Business",
+        "gpa": "3.4",
+        "year": "Freshman"
+    },
+    {
+        "name": "Patrick Gray",
+        "age": "22",
+        "major": "Economics",
+        "gpa": "3.7",
+        "year": "Senior"
+    },
+    {
+        "name": "Lauren Morgan",
+        "age": "20",
+        "major": "English",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Maria Thompson",
+        "age": "19",
+        "major": "Environmental Science",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "Robert Walsh",
+        "age": "21",
+        "major": "History",
+        "gpa": "3.8",
+        "year": "Junior"
+    },
+    {
+        "name": "Kelly Martinez",
+        "age": "20",
+        "major": "Sociology",
+        "gpa": "3.4",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Christopher Davis",
+        "age": "22",
+        "major": "Computer Science",
+        "gpa": "3.9",
+        "year": "Senior"
+    },
+    {
+        "name": "Sarah Johnson",
+        "age": "18",
+        "major": "Physics",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "Michael Rodriguez",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "4.0",
+        "year": "Junior"
+    },
+    {
+        "name": "Emily Chen",
+        "age": "19",
+        "major": "Biology",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "William Taylor",
+        "age": "20",
+        "major": "Mathematics",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Jessica Brown",
+        "age": "22",
+        "major": "Psychology",
+        "gpa": "3.6",
+        "year": "Senior"
+    },
+    {
+        "name": "Daniel Kim",
+        "age": "19",
+        "major": "Business",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "Rachel Anderson",
+        "age": "21",
+        "major": "Chemistry",
+        "gpa": "3.9",
+        "year": "Junior"
+    },
+    {
+        "name": "James Wilson",
+        "age": "20",
+        "major": "Economics",
+        "gpa": "3.5",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Lauren Garcia",
+        "age": "19",
+        "major": "English",
+        "gpa": "3.8",
+        "year": "Freshman"
+    },
+    {
+        "name": "Tyler Wright",
+        "age": "22",
+        "major": "Computer Science",
+        "gpa": "3.7",
+        "year": "Senior"
+    },
+    {
+        "name": "Emma Phillips",
+        "age": "20",
+        "major": "Political Science",
+        "gpa": "3.6",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Nathan Lee",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "3.9",
+        "year": "Junior"
+    },
+    {
+        "name": "Sophia Patel",
+        "age": "19",
+        "major": "Communications",
+        "gpa": "3.4",
+        "year": "Freshman"
+    },
+    {
+        "name": "Ryan Murphy",
+        "age": "20",
+        "major": "Philosophy",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Madison Scott",
+        "age": "22",
+        "major": "Art",
+        "gpa": "3.7",
+        "year": "Senior"
+    },
+    {
+        "name": "Brandon Cooper",
+        "age": "19",
+        "major": "Mathematics",
+        "gpa": "4.0",
+        "year": "Freshman"
+    },
+    {
+        "name": "Olivia White",
+        "age": "21",
+        "major": "Biology",
+        "gpa": "3.6",
+        "year": "Junior"
+    },
+    {
+        "name": "Justin Turner",
+        "age": "20",
+        "major": "Physics",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Hannah Baker",
+        "age": "19",
+        "major": "Psychology",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "Alexander Ross",
+        "age": "22",
+        "major": "Business",
+        "gpa": "3.9",
+        "year": "Senior"
+    },
+    {
+        "name": "Victoria Chang",
+        "age": "20",
+        "major": "Chemistry",
+        "gpa": "3.7",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Kevin Nguyen",
+        "age": "21",
+        "major": "Economics",
+        "gpa": "3.8",
+        "year": "Junior"
+    },
+    {
+        "name": "Elizabeth Hall",
+        "age": "19",
+        "major": "Music",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "Andrew Morris",
+        "age": "20",
+        "major": "Computer Science",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Samantha Adams",
+        "age": "22",
+        "major": "Environmental Science",
+        "gpa": "3.5",
+        "year": "Senior"
+    },
+    {
+        "name": "David Park",
+        "age": "19",
+        "major": "Sociology",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "John Smith",
+        "age": "19",
+        "major": "Computer Science",
+        "gpa": "3.8",
+        "year": "Freshman"
+    },
+    {
+        "name": "Emma Wilson",
+        "age": "20",
+        "major": "Mathematics",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Michael Brown",
+        "age": "21",
+        "major": "Physics",
+        "gpa": "3.7",
+        "year": "Junior"
+    },
+    {
+        "name": "Sarah Davis",
+        "age": "19",
+        "major": "Biology",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "James Johnson",
+        "age": "22",
+        "major": "Chemistry",
+        "gpa": "3.4",
+        "year": "Senior"
+    },
+    {
+        "name": "Emily Taylor",
+        "age": "20",
+        "major": "Psychology",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Daniel Martinez",
+        "age": "19",
+        "major": "Engineering",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "Lisa Anderson",
+        "age": "21",
+        "major": "Business",
+        "gpa": "3.8",
+        "year": "Junior"
+    },
+    {
+        "name": "David Thompson",
+        "age": "20",
+        "major": "Economics",
+        "gpa": "3.3",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Rachel White",
+        "age": "22",
+        "major": "English",
+        "gpa": "3.9",
+        "year": "Senior"
+    },
+    {
+        "name": "Christopher Lee",
+        "age": "19",
+        "major": "Computer Science",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "Michelle Garcia",
+        "age": "21",
+        "major": "Mathematics",
+        "gpa": "4.0",
+        "year": "Junior"
+    },
+    {
+        "name": "Kevin Rodriguez",
+        "age": "20",
+        "major": "Physics",
+        "gpa": "3.6",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Amanda Moore",
+        "age": "22",
+        "major": "Chemistry",
+        "gpa": "3.8",
+        "year": "Senior"
+    },
+    {
+        "name": "Steven Wright",
+        "age": "19",
+        "major": "Biology",
+        "gpa": "3.4",
+        "year": "Freshman"
+    },
+    {
+        "name": "Jessica Adams",
+        "age": "20",
+        "major": "Psychology",
+        "gpa": "3.7",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Ryan Mitchell",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "3.9",
+        "year": "Junior"
+    },
+    {
+        "name": "Jennifer Nelson",
+        "age": "19",
+        "major": "Business",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "Thomas Carter",
+        "age": "22",
+        "major": "Economics",
+        "gpa": "3.8",
+        "year": "Senior"
+    },
+    {
+        "name": "Ashley Wilson",
+        "age": "20",
+        "major": "English",
+        "gpa": "3.6",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Andrew Martin",
+        "age": "19",
+        "major": "Computer Science",
+        "gpa": "3.9",
+        "year": "Freshman"
+    },
+    {
+        "name": "Samantha Hill",
+        "age": "21",
+        "major": "Mathematics",
+        "gpa": "3.7",
+        "year": "Junior"
+    },
+    {
+        "name": "Joseph Turner",
+        "age": "20",
+        "major": "Physics",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Rebecca Phillips",
+        "age": "22",
+        "major": "Biology",
+        "gpa": "3.5",
+        "year": "Senior"
+    },
+    {
+        "name": "Brandon Campbell",
+        "age": "19",
+        "major": "Chemistry",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "Nicole Baker",
+        "age": "20",
+        "major": "Psychology",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Justin Cooper",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "4.0",
+        "year": "Junior"
+    },
+    {
+        "name": "Melissa Evans",
+        "age": "19",
+        "major": "Business",
+        "gpa": "3.4",
+        "year": "Freshman"
+    },
+    {
+        "name": "Patrick Gray",
+        "age": "22",
+        "major": "Economics",
+        "gpa": "3.7",
+        "year": "Senior"
+    },
+    {
+        "name": "Lauren Morgan",
+        "age": "20",
+        "major": "English",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Maria Thompson",
+        "age": "19",
+        "major": "Environmental Science",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "Robert Walsh",
+        "age": "21",
+        "major": "History",
+        "gpa": "3.8",
+        "year": "Junior"
+    },
+    {
+        "name": "Kelly Martinez",
+        "age": "20",
+        "major": "Sociology",
+        "gpa": "3.4",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Christopher Davis",
+        "age": "22",
+        "major": "Computer Science",
+        "gpa": "3.9",
+        "year": "Senior"
+    },
+    {
+        "name": "Sarah Johnson",
+        "age": "18",
+        "major": "Physics",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "Michael Rodriguez",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "4.0",
+        "year": "Junior"
+    },
+    {
+        "name": "Emily Chen",
+        "age": "19",
+        "major": "Biology",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "William Taylor",
+        "age": "20",
+        "major": "Mathematics",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Jessica Brown",
+        "age": "22",
+        "major": "Psychology",
+        "gpa": "3.6",
+        "year": "Senior"
+    },
+    {
+        "name": "Daniel Kim",
+        "age": "19",
+        "major": "Business",
+        "gpa": "3.7",
+        "year": "Freshman"
+    },
+    {
+        "name": "Rachel Anderson",
+        "age": "21",
+        "major": "Chemistry",
+        "gpa": "3.9",
+        "year": "Junior"
+    },
+    {
+        "name": "James Wilson",
+        "age": "20",
+        "major": "Economics",
+        "gpa": "3.5",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Lauren Garcia",
+        "age": "19",
+        "major": "English",
+        "gpa": "3.8",
+        "year": "Freshman"
+    },
+    {
+        "name": "Tyler Wright",
+        "age": "22",
+        "major": "Computer Science",
+        "gpa": "3.7",
+        "year": "Senior"
+    },
+    {
+        "name": "Emma Phillips",
+        "age": "20",
+        "major": "Political Science",
+        "gpa": "3.6",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Nathan Lee",
+        "age": "21",
+        "major": "Engineering",
+        "gpa": "3.9",
+        "year": "Junior"
+    },
+    {
+        "name": "Sophia Patel",
+        "age": "19",
+        "major": "Communications",
+        "gpa": "3.4",
+        "year": "Freshman"
+    },
+    {
+        "name": "Ryan Murphy",
+        "age": "20",
+        "major": "Philosophy",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Madison Scott",
+        "age": "22",
+        "major": "Art",
+        "gpa": "3.7",
+        "year": "Senior"
+    },
+    {
+        "name": "Brandon Cooper",
+        "age": "19",
+        "major": "Mathematics",
+        "gpa": "4.0",
+        "year": "Freshman"
+    },
+    {
+        "name": "Olivia White",
+        "age": "21",
+        "major": "Biology",
+        "gpa": "3.6",
+        "year": "Junior"
+    },
+    {
+        "name": "Justin Turner",
+        "age": "20",
+        "major": "Physics",
+        "gpa": "3.8",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Hannah Baker",
+        "age": "19",
+        "major": "Psychology",
+        "gpa": "3.5",
+        "year": "Freshman"
+    },
+    {
+        "name": "Alexander Ross",
+        "age": "22",
+        "major": "Business",
+        "gpa": "3.9",
+        "year": "Senior"
+    },
+    {
+        "name": "Victoria Chang",
+        "age": "20",
+        "major": "Chemistry",
+        "gpa": "3.7",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Kevin Nguyen",
+        "age": "21",
+        "major": "Economics",
+        "gpa": "3.8",
+        "year": "Junior"
+    },
+    {
+        "name": "Elizabeth Hall",
+        "age": "19",
+        "major": "Music",
+        "gpa": "3.6",
+        "year": "Freshman"
+    },
+    {
+        "name": "Andrew Morris",
+        "age": "20",
+        "major": "Computer Science",
+        "gpa": "3.9",
+        "year": "Sophomore"
+    },
+    {
+        "name": "Samantha Adams",
+        "age": "22",
+        "major": "Environmental Science",
+        "gpa": "3.5",
+        "year": "Senior"
+    },
+    {
+        "name": "David Park",
+        "age": "19",
+        "major": "Sociology",
+        "gpa": "3.7",
+        "year": "Freshman"
+    }
+]

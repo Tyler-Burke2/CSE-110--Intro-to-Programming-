@@ -1,0 +1,17 @@
+name = input("What is your first name: ")
+last = input("What is your last name: ")
+email = input("What is your email address: ")
+phone = input("What is your phone number: ")
+job = input("What is your job title: ")
+id = input("What is your ID number: ")
+
+print("The ID Card is:")
+print("----------------------------------")
+print(last.upper() + ", " + name)
+print(job.title())
+print("ID: "+ id)
+print(" ")
+print(email.lower())
+print(phone)
+print("----------------------------------")
+
