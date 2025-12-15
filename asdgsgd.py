@@ -18,7 +18,7 @@ title_font = pygame.font.Font("freesansbold.ttf", 64)
 
 # Create screen
 screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption("Fettuccine Snake Game")
+pygame.display.set_caption("Project Snake Game")
 pygame.mixer.music.load('bubble.mp3')
 
 def show_text(text, size, x, y, color=white):
